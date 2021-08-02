@@ -1,4 +1,15 @@
-### Hi there 👋
+[![Mayssa's Github Banner](./assets/mayssasbanner.png)]
+
+Hey there 👋
+
+I’m Mayssa, a fresh computer science graduate, creative coder and self-proclaimed UI/UX designer. My current mission is improving both my technical and soft skills.
+
+💻 I'm currently working with Flutter & Github along with learning other skills.
+
+⚡ Fun fact: I got a dog to get over my fear of dogs and she's now part of the family.
+
+📫 How to reach me: [![Link to Email](alwaouimayssa@gmail.com)]
+
 
 <!--
 **almayssa/almayssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
