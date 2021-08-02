@@ -8,7 +8,7 @@ I’m Mayssa, a fresh computer science graduate, creative coder and self-proclai
 
 ⚡ Fun fact: I got a dog to get over my fear of dogs and she's now part of the family.
 
-📫 How to reach me: ![alwaouimayssa@gmail.com](alwaouimayssa@gmail.com)
+📫 How to reach me: [alwaouimayssa@gmail.com](alwaouimayssa@gmail.com)
 
 
 <!--
