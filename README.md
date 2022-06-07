@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I’m Mayssa, a fresh computer science graduate, IT engineering student, creative coder and self-proclaimed UI/UX designer. My current mission is improving both my technical and soft skills.
+I’m Mayssa, a fresh computer science graduate, Software engineering student, creative coder and self-proclaimed UI/UX designer. My current mission is improving both my technical and soft skills.
 
 💻 I'm currently working with Flutter & Github along with learning Java, Symfony and other skills.
 
