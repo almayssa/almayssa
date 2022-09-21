@@ -4,7 +4,7 @@ Hey there 👋
 
 I’m Mayssa, a Computer Science graduate, Software Engineering student, creative coder and self-proclaimed UI/UX designer. My current mission is improving both my technical and soft skills.
 
-💻 I'm currently working with Python along with learning Automation, Docker, Jenkins and other skills.
+💻 I'm currently working with Python along with learning Angular, Docker, Jenkins and other skills.
 
 ⚡ Fun fact: I got a dog to get over my fear of dogs and she's now part of the family.
 
