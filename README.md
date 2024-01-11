@@ -2,7 +2,9 @@
 
 <h3>Hey there 👋</h3>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47d22tksh1l34fnzbpckpyj7ag5qrmgjtxvpjatsli&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk"></a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47d22tksh1l34fnzbpckpyj7ag5qrmgjtxvpjatsli&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" height="100%" style="position:absolute" class="giphy-embed"></div>
+
+<br>
 
 I’m <strong>Mayssa</strong>, a Computer Science graduate, Software Engineering student, creative coder and self-proclaimed UI/UX designer. My current mission is improving both my technical and soft skills.
 
